@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BUPT_OOP_Java.iml" filepath="$PROJECT_DIR$/BUPT_OOP_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" filepath="$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OJ/OJ.iml" filepath="$PROJECT_DIR$/OJ/OJ.iml" />
     </modules>
   </component>
 </project>
