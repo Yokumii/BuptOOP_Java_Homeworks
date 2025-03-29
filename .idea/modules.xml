@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/BUPT_OOP_Java.iml" filepath="$PROJECT_DIR$/BUPT_OOP_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
       <module fileurl="file://$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" filepath="$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Display6_7/Display6_7.iml" filepath="$PROJECT_DIR$/Display6_7/Display6_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionCatch/ExceptionCatch.iml" filepath="$PROJECT_DIR$/ExceptionCatch/ExceptionCatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/OJ/OJ.iml" filepath="$PROJECT_DIR$/OJ/OJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestInterface/TestInterface.iml" filepath="$PROJECT_DIR$/TestInterface/TestInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/equals/equals.iml" filepath="$PROJECT_DIR$/equals/equals.iml" />
     </modules>
   </component>
 </project>

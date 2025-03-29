@@ -1,0 +1,57 @@
+classDiagram
+    class Vehicle {
+        #String name
+        #int rent
+        #int number
+        +Vehicle(name: String, rent: int, number: int)
+        +getName(): String
+        +getRent(): int
+        +getNumber(): int
+        +getInfo(): String*
+    }
+
+    class PassengerVehicle {
+        -int passengerCapacity
+        +PassengerVehicle(name: String, rent: int, number: int, passengerCapacity: int)
+        +getInfo(): String
+    }
+
+    class CargoVehicle {
+        -int cargoCapacity
+        +CargoVehicle(name: String, rent: int, number: int, cargoCapacity: int)
+        +getInfo(): String
+    }
+
+    class DualPurposeVehicle {
+        -int passengerCapacity
+        -int cargoCapacity
+        +DualPurposeVehicle(name: String, rent: int, number: int, passengerCapacity: int, cargoCapacity: int)
+        +getInfo(): String
+    }
+
+    class CarRentalSystem {
+        -List~Vehicle~ vehicles
+        -List~RentalRecord~ rentalRecords
+        +CarRentalSystem()
+        -initializeVehicles(): void
+        +displayVehicles(): void
+        +processRental(): void
+        -displayBill(): void
+        -findVehicle(number: int): Vehicle
+    }
+
+    class RentalRecord {
+        -Vehicle vehicle
+        -int days
+        +RentalRecord(vehicle: Vehicle, days: int)
+        +getVehicle(): Vehicle
+        +getDays(): int
+        +calculatePrice(): int
+    }
+
+    Vehicle <|-- PassengerVehicle
+    Vehicle <|-- CargoVehicle
+    Vehicle <|-- DualPurposeVehicle
+    CarRentalSystem o-- Vehicle
+    CarRentalSystem o-- RentalRecord
+    RentalRecord o-- Vehicle
