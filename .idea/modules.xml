@@ -2,23 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Homework1/1_Array/1_Array.iml" filepath="$PROJECT_DIR$/Homework1/1_Array/1_Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homework2/1_WatchdogTimer/1_WatchdogTimer.iml" filepath="$PROJECT_DIR$/Homework2/1_WatchdogTimer/1_WatchdogTimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework1/2_CarRentalSystem/2_CarRentalSystem.iml" filepath="$PROJECT_DIR$/Homework1/2_CarRentalSystem/2_CarRentalSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homework2/2_ThreadSum/2_ThreadSum.iml" filepath="$PROJECT_DIR$/Homework2/2_ThreadSum/2_ThreadSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework1/3_Equal/3_Equal.iml" filepath="$PROJECT_DIR$/Homework1/3_Equal/3_Equal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homework2/3_Warehouse/3_Warehouse.iml" filepath="$PROJECT_DIR$/Homework2/3_Warehouse/3_Warehouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework1/4_Bank/4_Bank.iml" filepath="$PROJECT_DIR$/Homework1/4_Bank/4_Bank.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homework2/4_XCopy/4_XCopy.iml" filepath="$PROJECT_DIR$/Homework2/4_XCopy/4_XCopy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homework2/5_ClockandWeather/5_ClockandWeather.iml" filepath="$PROJECT_DIR$/Homework2/5_ClockandWeather/5_ClockandWeather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework1/5_TestInterface/5_TestInterface.iml" filepath="$PROJECT_DIR$/Homework1/5_TestInterface/5_TestInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework1/6_7_Display/6_7_Display.iml" filepath="$PROJECT_DIR$/Homework1/6_7_Display/6_7_Display.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homework2/6_ButtonGUI/6_ButtonGUI.iml" filepath="$PROJECT_DIR$/Homework2/6_ButtonGUI/6_ButtonGUI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework1/8_Exception/8_Exception.iml" filepath="$PROJECT_DIR$/Homework1/8_Exception/8_Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework1/9_ExceptionCatch/9_ExceptionCatch.iml" filepath="$PROJECT_DIR$/Homework1/9_ExceptionCatch/9_ExceptionCatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/BUPT_OOP_Java.iml" filepath="$PROJECT_DIR$/BUPT_OOP_Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" filepath="$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Display6_7/Display6_7.iml" filepath="$PROJECT_DIR$/Display6_7/Display6_7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExceptionCatch/ExceptionCatch.iml" filepath="$PROJECT_DIR$/ExceptionCatch/ExceptionCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework1/Homework1.iml" filepath="$PROJECT_DIR$/Homework1/Homework1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homework2/Homework2.iml" filepath="$PROJECT_DIR$/Homework2/Homework2.iml" />
       <module fileurl="file://$PROJECT_DIR$/OJ/OJ.iml" filepath="$PROJECT_DIR$/OJ/OJ.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TestInterface/TestInterface.iml" filepath="$PROJECT_DIR$/TestInterface/TestInterface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/equals/equals.iml" filepath="$PROJECT_DIR$/equals/equals.iml" />
     </modules>
   </component>
 </project>

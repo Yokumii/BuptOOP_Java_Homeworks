@@ -176,7 +176,7 @@ public class BankAccountTest {
 
             // 4. 测试转账
             System.out.println("\n=== 测试转账 ===");
-            account1.transfer(account2, 300);
+            account1.transfer(account2, 6000);
             System.out.println("账户1余额: " + account1.getBalance());
             System.out.println("账户2余额: " + account2.getBalance());
 

@@ -11,3 +11,29 @@ Caused by: java.lang.ArithmeticException: / by zero
 	at SafeExceptionDemo.testArithmeticException(SafeExceptionDemo.java:45)
 	... 2 more
 
+六月 06, 2025 1:39:48 下午 GlobalExceptionHandler handleException
+严重: 异常发生时间: Fri Jun 06 13:39:48 CST 2025
+异常类型: java.lang.RuntimeException
+异常信息: 除零错误
+堆栈跟踪:
+java.lang.RuntimeException: 除零错误
+	at SafeExceptionDemo.testArithmeticException(SafeExceptionDemo.java:47)
+	at SafeExceptionDemo.testVariousExceptions(SafeExceptionDemo.java:24)
+	at SafeExceptionDemo.main(SafeExceptionDemo.java:14)
+Caused by: java.lang.ArithmeticException: / by zero
+	at SafeExceptionDemo.testArithmeticException(SafeExceptionDemo.java:45)
+	... 2 more
+
+六月 06, 2025 2:21:54 下午 GlobalExceptionHandler handleException
+严重: 异常发生时间: Fri Jun 06 14:21:54 CST 2025
+异常类型: java.lang.RuntimeException
+异常信息: 除零错误
+堆栈跟踪:
+java.lang.RuntimeException: 除零错误
+	at SafeExceptionDemo.testArithmeticException(SafeExceptionDemo.java:47)
+	at SafeExceptionDemo.testVariousExceptions(SafeExceptionDemo.java:24)
+	at SafeExceptionDemo.main(SafeExceptionDemo.java:14)
+Caused by: java.lang.ArithmeticException: / by zero
+	at SafeExceptionDemo.testArithmeticException(SafeExceptionDemo.java:45)
+	... 2 more
+
