@@ -1,4 +1,4 @@
-# BUPT_OOP_Java
+# BuptOOP_Java_Homeworks
 
 这个仓库是北京邮电大学2024-2025学年《面向对象的程序设计（Java）》课程的两次小作业和两次 OJ 作业的代码仓库。
 
@@ -19,4 +19,4 @@
 
 ## 特别说明
 
-代码不保证绝对的正确性，请谨慎借鉴或使用，并自行遵循有关学术规范，如产生任何后果与作者无关。有问题可以发起 [ISSUE](https://github.com/Yokumii/BUPT_OOP_Java/issues) ，但作者后续不一定继续维护该作业仓库。
+代码不保证绝对的正确性，请谨慎借鉴或使用，并自行遵循有关学术规范，如产生任何后果与作者无关。有问题可以发起 [ISSUE](https://github.com/Yokumii/BuptOOP_Java_Homeworks/issues) ，但作者后续不一定继续维护该作业仓库。
